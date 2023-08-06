@@ -1,0 +1,28 @@
+{
+  "name": "js-log-to-file",
+  "version": "1.0.0",
+  "description": "Provides logging to file with date and time",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilhamad/js-logger.git"
+  },
+  "keywords": [
+    "log",
+    "log",
+    "to",
+    "file"
+  ],
+  "author": "Ahmed Adewale <lilhamad8@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilhamad/js-logger/issues"
+  },
+  "homepage": "https://github.com/lilhamad/js-logger#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
