@@ -1,6 +1,6 @@
 {
   "name": "js-log-to-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provides logging to file with date and time",
   "main": "index.js",
   "scripts": {
@@ -12,12 +12,12 @@
   },
   "keywords": [
     "log",
-    "log",
-    "to",
-    "file"
+    "log into file with js",
+    "file logger",
+    "logg into file"
   ],
   "author": "Ahmed Adewale <lilhamad8@gmail.com>",
-  "license": "ISC",
+  "license": "is freely distributable under the terms of the https://github.com/lilhamad/js-logger/blob/main/LICENSE (ISC) MIT",
   "bugs": {
     "url": "https://github.com/lilhamad/js-logger/issues"
   },

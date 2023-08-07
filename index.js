@@ -14,7 +14,7 @@ let moment = require('moment');
 const fileName = moment().format('MM-DD-YYYY');
 console.log("Logging passed ");
 
-const folderName = '../Logg/';
+const folderName = 'Logg/';
 
 try {
   if (!fs.existsSync(folderName)) {
